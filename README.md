@@ -48,6 +48,7 @@
 - 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaulRenshaw&color=blue&style=for-the-badge" alt="Visualizações do meu perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=RaulRenshaw&color=800080&label=Perfil%20Visualizado&style=for-the-badge" alt="Visualizações do meu perfil"/>
 </p>
