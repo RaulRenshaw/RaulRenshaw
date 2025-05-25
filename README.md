@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou [Seu Nome]!</h1>
+<h1 align="center">👋 Olá, eu sou Raul Vitor!</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação | 🎯 Focado em evolução constante | 🚀 Amante de tecnologia
@@ -11,7 +11,7 @@
 - 🌱 Atualmente estudando: **Spring Boot e APIs REST**
 - 🎯 Objetivo: Me tornar um **desenvolvedor backend** especializado em **Java e sistemas distribuídos**
 - 💡 Interesses: **Tecnologia, inovação, automação, APIs e open source**
-- 🎓 Formação: **[Sua formação ou curso atual]**
+- 🎓 Formação: **Análise e Desenvolvimento de Sistemas**
 
 ---
 
@@ -29,16 +29,16 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulRenshaw&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulRenshaw&layout=compact&theme=radical"/>
 </div>
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: [seu-email@email.com](mailto:seu-email@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 📧 Email: raulrenshaw@gmail.com ] (mailto:raulrenshaw.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/raul-vitor-932422312/ ([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/raul-vitor-932422312/))
 
 ---
 
