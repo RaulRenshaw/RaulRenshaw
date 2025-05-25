@@ -38,7 +38,7 @@
 ## 📫 Contato
 
 - 📧 Email: [raulrenshaw@email.com](mailto:raulrenshaw@email.com)
-- 💼 LinkedIn: [[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/raul-vitor-932422312/)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/raul-vitor-932422312/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/raul-vitor-932422312/](https://www.linkedin.com/in/raul-vitor-932422312/)
 
 ---
 
