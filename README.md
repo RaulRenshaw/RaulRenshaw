@@ -44,9 +44,8 @@
 
 ## 🏆 Projetos em destaque
 
-- 🔗 [Projeto API REST](https://github.com/seu-usuario/projeto-api) — CRUD completo com Spring Boot
-- 🔗 [Projeto SQL](https://github.com/seu-usuario/projeto-sql) — Scripts e consultas otimizadas
-- 🔗 [Automação com Python](https://github.com/seu-usuario/projeto-python) — Scripts de automação e ETL
+- 🔗 [Projeto API REST]([https://github.com/RaulRenshaw/CountryCRUD]) — CRUD completo com Spring Boot
+- 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
 
 ---
 
