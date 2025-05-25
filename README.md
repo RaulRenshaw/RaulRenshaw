@@ -1,4 +1,5 @@
 ## Oiii eu sou o Raul Vitor estudante de programação e tecnologia!
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RaulRenshaw" />
 </a>
