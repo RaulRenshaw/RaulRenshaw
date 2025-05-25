@@ -1,8 +1,9 @@
-<h1 align="center">👋 Olá, eu sou Raul Vitor!</h1>
+<h1 align="center">👾 Olá, eu sou Raul Vitor!</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação | 🎯 Focado em evolução constante | 🚀 Amante de tecnologia
 </p>
+
 
 ---
 
