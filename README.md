@@ -44,7 +44,7 @@
 
 ## 🏆 Projetos em destaque
 
-- 🔗 [Projeto API REST]([https://github.com/RaulRenshaw/CountryCRUD]) — CRUD completo com Spring Boot
+- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/CountryCRUD) — CRUD completo com Spring Boot
 - 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
 
 ---
