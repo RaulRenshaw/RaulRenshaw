@@ -49,5 +49,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaulRenshaw&color=purple&style=for-the-badge" alt="Visualizações do meu perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=RaulRenshaw&color=blue&style=for-the-badge" alt="Visualizações do meu perfil"/>
 </p>
