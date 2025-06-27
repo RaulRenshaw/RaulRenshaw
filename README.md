@@ -12,7 +12,7 @@
 - 🌱 Atualmente estudando: **Spring Boot e APIs REST**
 - 🎯 Objetivo: Me tornar um **desenvolvedor backend** especializado em **Java e sistemas distribuídos**
 - 💡 Interesses: **Tecnologia, inovação, automação, APIs e open source**
-- 🎓 Formação: **[Sua formação ou curso atual]**
+- 🎓 Formação: **Análise e Desenvolvimento de Sistemas**
 
 ---
 
