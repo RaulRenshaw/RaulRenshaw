@@ -45,7 +45,7 @@
 
 ## 🏆 Projetos em destaque
 
-- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/CountryCRUD) — CRUD completo com Spring Boot
+- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/Product-Management-JWT) — API REST em Java para cadastro de produtos com autenticação JWT e PostgreSQL
 - 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
 
 ---
