@@ -45,8 +45,8 @@
 
 ## 🏆 Projetos em destaque
 
-- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/Product-Management-JWT) — API REST em Java para cadastro de produtos com autenticação JWT e PostgreSQL
-- 🔗 [Projeto RPG](https://github.com/RaulRenshaw/RPG) — Mini jogo RPG
+- 🔗 [Projeto API REST](https://github.com/RaulRenshaw/Product-Management-JWT) — API REST em Java para cadastro de produtos com autenticação JWT e PostgreSQL.
+- 🔗 [Projeto Conversor de Moeda ](https://github.com/RaulRenshaw/ConversorDeMoedas) — Conversor de moedas com API em tempo real para cambio e swing para interface visual.
 
 ---
 
